@@ -23,17 +23,17 @@
 
 ## Langages
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)  
-![SAS](https://img.shields.io/badge/SAS-1A6EBB?logo=sas&logoColor=white&style=for-the-badge)  
-![SQL](https://img.shields.io/badge/SQL%20(PostgreSQL)-336791?logo=postgresql&logoColor=white&style=for-the-badge)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)  
-![Octave/MATLAB](https://img.shields.io/badge/Octave%20%2F%20MATLAB-0790C0?logo=octave&logoColor=white&style=for-the-badge)  
-![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
+![SAS](https://img.shields.io/badge/SAS-1A6EBB?logo=sas&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL%20(PostgreSQL)-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![Octave/MATLAB](https://img.shields.io/badge/Octave%20%2F%20MATLAB-0790C0?logo=octave&logoColor=white&style=for-the-badge)
+![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 
 ---
 
