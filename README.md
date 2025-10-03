@@ -7,16 +7,15 @@
 
 ## À propos
 
-- Étudiant en **M1 Statistique pour l’Évaluation et la Prévision (URCA)**, orienté **data science** et **modélisation statistique**.  
+- Étudiant en **M2 Statistique pour l’Évaluation et la Prévision (URCA)**, orienté **data science** et **modélisation statistique**.  
 - J’aime transformer des **données** en **indicateurs actionnables** (prévision, scoring, aide à la décision), avec une exigence de **rigueur** et de **reproductibilité**.  
 - Pratique des écosystèmes **R / Python / SAS** pour l’analytique, et **HTML/CSS/JS** pour livrer des dashboards et démos.  
-- Intérêt fort pour les sujets **économétrie, inférence, Monte Carlo, ACP (Pearson/Spearman)** et **qualité de code** (Git, tests, envs).
 
 🔗 Retrouvez aussi mes projets sur [GitLab URCA](https://gitlab-mi.univ-reims.fr/).
 
 ---
 
-## Langages (un par ligne)
+## Langages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)  
